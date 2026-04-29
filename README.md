@@ -2,9 +2,15 @@
 ## Description:
 This project is the the fourth option given in the brief, it is a simple banking system that allows the use to check balance, deposit, withdraw and exit the sisytem with soem extra features such as checking transaction history, logging out and real-world banking simulation such as bank deposit or depit card withdrawal. 
 
-##How to run:
-1. Open the project folder
-2. Run myproject.py
+## How to Run
+
+1. Make sure Python 3 is installed on your computer
+
+2. Download or clone this repository
+
+3. Open the project folder in VS Code or any Python IDE
+
+4. Run the program file
    
 ##Requirements:
 - Python 3
