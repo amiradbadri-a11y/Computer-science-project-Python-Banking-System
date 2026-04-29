@@ -10,7 +10,7 @@ This project is the the fourth option given in the brief, it is a simple banking
 - Python 3
 - No external libraries required (only built-in modules: getpass, random, datetime)
 
-## Notes
+## Notes:
 - The system runs in the terminal/console
 - All data (balance, history) is temporary and resets when the program restarts
 - The withdrawal limit per session is £300
