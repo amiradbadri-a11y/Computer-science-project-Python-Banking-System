@@ -74,7 +74,7 @@ while system_running:
                             print('Amount must be greater than 0.')
                             continue
                         elif totalwithd + withd >300:
-                            print('Total amount perday exceeded')
+                            print('Daily withdrawal limit (£300) exceeded.')
                             break
                     except ValueError:     
                         print('Please enter a valid value.')
