@@ -75,7 +75,7 @@ while system_running:
                             continue
                         elif totalwithd + withd >300:
                             print('Total amount perday exceeded')
-                            continue
+                            break
                     except ValueError:     
                         print('Please enter a valid value.')
                         continue
